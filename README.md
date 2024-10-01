@@ -11,3 +11,6 @@ This repo contains all the scripts that can be used to automate the post-QC step
 --Rename_files.py - This python script renames all the files for the FTP staging and QC files sharing
 
 --create_aMD_table.py -- This python script creates a markdown table in .md by extracting the specific QC metrics from JSON for the FTP README or sharing purposes
+
+
+## Notes : Email or message to Vaidehi P if you have any question regarding this scripts
