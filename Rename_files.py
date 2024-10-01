@@ -1,3 +1,5 @@
+## This python script can be used to rename the Alignments and QC metrics files for consistency and FTP staging
+
 import os
 
 # Function to rename files
