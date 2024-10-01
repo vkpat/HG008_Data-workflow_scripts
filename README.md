@@ -2,7 +2,6 @@
 
 This repo contains all the scripts that can be used to automate the post-QC steps such as generate a template README and also QC metrics sharing and filling out the metrics in the Manifest and the README. Multiple python scripts are available to use for automation of some of the Post-QC steps done after Mapping and QC data is generated
 
-![Data_automation_workflow](https://github.com/user-attachments/assets/19131607-dce5-44b8-9ef3-3bfbf64e6838)
 
 ## Scripts file list 
 
