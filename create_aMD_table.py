@@ -1,4 +1,4 @@
-## Python script helps to create a table with QC metrics in the Markdown file format
+## Python script helps to create a table with QC metrics in the Markdown file format for the FTP README or sharing purposes
 
 import json
 import csv
