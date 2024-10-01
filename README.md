@@ -4,6 +4,8 @@ This repo contains all the scripts that can be used to automate the post-QC step
 
 ![Data_automation_workflow](https://github.com/user-attachments/assets/19131607-dce5-44b8-9ef3-3bfbf64e6838)
 
+## Scripts file list 
+
 --SheetstoDocs.py - This Google App script converts the Google sheets to a Google Docs that can be used to convert to markdown file format for a Template README for a FTP
 
 --Rename_files.py - This python script renames all the files for the FTP staging and QC files sharing
