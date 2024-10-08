@@ -173,7 +173,7 @@ def main(json_file, markdown_file):
 
 # Example usage
 if __name__ == "__main__":
-    json_file = 'HG001-5_combined_metrics_LngInsert.json'  # Replace with your JSON file path
-    markdown_file = 'HG001-5_combined_metrics_LngInsert.md'  # Output Markdown file name 
+    json_file = 'sample.json'  # Replace with your JSON file path
+    markdown_file = 'sample.md'  # Output Markdown file name 
     main(json_file, markdown_file)
 
