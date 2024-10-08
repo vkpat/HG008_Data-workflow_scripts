@@ -2,7 +2,7 @@ import json
 import csv
 
 # Load your JSON file
-json_filename = 'HG001-5_combined_metrics_LngInsert.json'  # Specify your JSON file name here
+json_filename = 'sample.json'  # Specify your JSON file name here
 try:
     with open(json_filename, 'r') as file:
         qc_data = json.load(file)
@@ -69,7 +69,7 @@ for filename, stats in qc_data.items():
     summary_data.append(row)
 
 # Write the extracted data to a CSV file
-csv_filename = 'HG001-5_combined_metrics_LngInsert.csv'  # Specify your CSV output file name here
+csv_filename = 'sample.csv'  # Specify your CSV output file name here
 with open(csv_filename, 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
 
