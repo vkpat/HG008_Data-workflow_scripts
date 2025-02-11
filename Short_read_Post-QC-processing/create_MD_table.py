@@ -1,3 +1,5 @@
+## This python script creates a QC table in markdown format. This markdown table can be used for the GIAB FTP README.
+
 import json
 import math
 from collections import defaultdict
