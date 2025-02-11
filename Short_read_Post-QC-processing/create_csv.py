@@ -1,3 +1,5 @@
+## This script creates a csv file with all the metrics from samtools and mosdepth for Tumor/Normal manifest document. This can be also used to send collaborator a QC table with all the metrics
+
 import json
 import math
 import csv
