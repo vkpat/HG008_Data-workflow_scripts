@@ -12,9 +12,11 @@ This repo contains all the scripts that can be used to automate the post-QC step
 
 --Rename_files.py - This python script renames all the files for the FTP staging and QC files sharing
 
+--createaJSON.py - This python script create a JSON file with all the metrics to send to collaborators and internal use
+
 --create_aMD_table.py - This python script creates a markdown table in .md by extracting the specific QC metrics from JSON for the FTP README or sharing purposes
 
---createaCSV.py - This script exract the specific metrics from the JSON to the CSV format that also matches with column name of the HG008 data manifest. So metrics from the CSV can be copied to the Manifest directly.
+--createcsv.py - This script exract the specific metrics from the JSON to the CSV format that also matches with column name of the HG008 data manifest. So metrics from the CSV can be copied to the Manifest directly.
 
 
 ## Notes : Email or message to Vaidehi P if you have any question regarding this scripts
