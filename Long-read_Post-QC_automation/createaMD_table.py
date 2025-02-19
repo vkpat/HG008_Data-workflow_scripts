@@ -1,4 +1,4 @@
-## This script creates a QC table in markdown file that can be used for GIAB ftp site README files
+## This script creates a QC table( Long-read) in markdown file that can be used for GIAB ftp site README files
 
 import json
 import os
