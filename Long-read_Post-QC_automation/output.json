@@ -1,0 +1,136 @@
+{
+    "HG008-T_GRCh38-GIABv3_ONT-UL-R10.4.1-dorado_0.8.1_sup.5mC_5hmC_54x_20241216.cramino": {
+        "samples": [
+            {
+                "ref_id": "GRCh38-GIABv3",
+                "hg_id": "HG008-T",
+                "cramino": {
+                    "File name": "HG008-T_GRCh38_GIABv3_ONT-R10.4.1-dorado_0.8.1_sup.5mC_5hmC_20241216.bam",
+                    "Number of alignments": "4068842",
+                    "% from total reads": "77.85",
+                    "Yield [Gb]": "118.52",
+                    "Mean coverage": "38.22",
+                    "Yield [Gb] (>25kb)": "102.57",
+                    "N50": "83765",
+                    "N75": "43224",
+                    "Median length": "8618.50",
+                    "Mean length": "29129",
+                    "Median identity": "99.55",
+                    "Mean identity": "96.69",
+                    "Modal identity": "99.7"
+                },
+                "samtools_stats": {
+                    "file_name": "HG008-T_GRCh38-GIABv3_ONT-UL-R10.4.1-dorado_0.8.1_sup.5mC_5hmC_54x_20241216.samtools_stats.txt",
+                    "data": {
+                        "raw total sequences:": "3642157  # excluding supplementary and secondary reads",
+                        "filtered sequences:": "0",
+                        "sequences:": "3642157",
+                        "is sorted:": "1",
+                        "1st fragments:": "3642157",
+                        "last fragments:": "0",
+                        "reads mapped:": "3500327",
+                        "reads mapped and paired:": "0  # paired-end technology bit set + both mates mapped",
+                        "reads unmapped:": "141830",
+                        "reads properly paired:": "0  # proper-pair bit set",
+                        "reads paired:": "0  # paired-end technology bit set",
+                        "reads duplicated:": "0  # PCR or optical duplicate bit set",
+                        "reads MQ0:": "15149  # mapped and MQ=0",
+                        "reads QC failed:": "0",
+                        "non-primary alignments:": "1015617",
+                        "supplementary alignments:": "568515",
+                        "total length:": "119767951306  # ignores clipping",
+                        "total first fragment length:": "119767951306  # ignores clipping",
+                        "total last fragment length:": "0  # ignores clipping",
+                        "bases mapped:": "119382856410  # ignores clipping",
+                        "bases mapped (cigar):": "118523423481  # more accurate",
+                        "bases trimmed:": "0",
+                        "bases duplicated:": "0",
+                        "mismatches:": "3866333809  # from NM fields",
+                        "error rate:": "3.262084e-02  # mismatches / bases mapped (cigar)",
+                        "average length:": "32884",
+                        "average first fragment length:": "32884",
+                        "average last fragment length:": "0",
+                        "maximum length:": "1783746",
+                        "maximum first fragment length:": "1783746",
+                        "maximum last fragment length:": "0",
+                        "average quality:": "40.2",
+                        "insert size average:": "0.0",
+                        "insert size standard deviation:": "0.0",
+                        "inward oriented pairs:": "0",
+                        "outward oriented pairs:": "0",
+                        "pairs with other orientation:": "0",
+                        "pairs on different chromosomes:": "0",
+                        "percentage of properly paired reads (%):": "0.0"
+                    }
+                }
+            }
+        ]
+    },
+    "HG008-T_CHM13v2.0_ONT-UL-R10.4.1-dorado_0.8.1_sup.5mC_5hmC_54x_20241216.cramino": {
+        "samples": [
+            {
+                "ref_id": "CHM13v2.0",
+                "hg_id": "HG008-T",
+                "cramino": {
+                    "File name": "HG008-T_chm13v2.0_ONT-R10.4.1-dorado_0.8.1_sup.5mC_5hmC_20241216.bam",
+                    "Number of alignments": "3931523",
+                    "% from total reads": "78.91",
+                    "Yield [Gb]": "117.74",
+                    "Mean coverage": "37.77",
+                    "Yield [Gb] (>25kb)": "102.10",
+                    "N50": "86318",
+                    "N75": "44161",
+                    "Median length": "9139.00",
+                    "Mean length": "29948",
+                    "Median identity": "99.59",
+                    "Mean identity": "97.10",
+                    "Modal identity": "99.7"
+                },
+                "samtools_stats": {
+                    "file_name": "HG008-T_CHM13v2.0_ONT-UL-R10.4.1-dorado_0.8.1_sup.5mC_5hmC_54x_20241216.samtools_stats.txt",
+                    "data": {
+                        "raw total sequences:": "3642157  # excluding supplementary and secondary reads",
+                        "filtered sequences:": "0",
+                        "sequences:": "3642157",
+                        "is sorted:": "1",
+                        "1st fragments:": "3642157",
+                        "last fragments:": "0",
+                        "reads mapped:": "3489275",
+                        "reads mapped and paired:": "0  # paired-end technology bit set + both mates mapped",
+                        "reads unmapped:": "152882",
+                        "reads properly paired:": "0  # proper-pair bit set",
+                        "reads paired:": "0  # paired-end technology bit set",
+                        "reads duplicated:": "0  # PCR or optical duplicate bit set",
+                        "reads MQ0:": "25361  # mapped and MQ=0",
+                        "reads QC failed:": "0",
+                        "non-primary alignments:": "897862",
+                        "supplementary alignments:": "442248",
+                        "total length:": "119767951306  # ignores clipping",
+                        "total first fragment length:": "119767951306  # ignores clipping",
+                        "total last fragment length:": "0  # ignores clipping",
+                        "bases mapped:": "119245617659  # ignores clipping",
+                        "bases mapped (cigar):": "117741431185  # more accurate",
+                        "bases trimmed:": "0",
+                        "bases duplicated:": "0",
+                        "mismatches:": "3027417416  # from NM fields",
+                        "error rate:": "2.571242e-02  # mismatches / bases mapped (cigar)",
+                        "average length:": "32884",
+                        "average first fragment length:": "32884",
+                        "average last fragment length:": "0",
+                        "maximum length:": "1783746",
+                        "maximum first fragment length:": "1783746",
+                        "maximum last fragment length:": "0",
+                        "average quality:": "40.2",
+                        "insert size average:": "0.0",
+                        "insert size standard deviation:": "0.0",
+                        "inward oriented pairs:": "0",
+                        "outward oriented pairs:": "0",
+                        "pairs with other orientation:": "0",
+                        "pairs on different chromosomes:": "0",
+                        "percentage of properly paired reads (%):": "0.0"
+                    }
+                }
+            }
+        ]
+    }
+}
