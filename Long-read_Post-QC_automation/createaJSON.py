@@ -1,3 +1,4 @@
+## This script creates a JSON file with all the QC metrics from multiple files.
 import os
 import json
 import re
