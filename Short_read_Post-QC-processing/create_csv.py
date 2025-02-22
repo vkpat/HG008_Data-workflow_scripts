@@ -12,6 +12,8 @@ samtools_metrics = {
     "reads mapped and paired": "Reads mapped and paired",
     "error rate": "Percent mismatch rate",
     "average length": "Average length",
+    "bases_mapped (cigar)":"bases_mapped (cigar)",
+    "total_length":"total_length",
     "insert size average": "Insert size average",
     "insert size standard deviation": "Insert size standard deviation",
     "percentage of properly paired reads (%)": "Percentage of properly paired",
