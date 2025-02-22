@@ -107,7 +107,7 @@ def create_markdown_table(hg_id, entries, mosdepth_values):
         try:
             reads = float(str(samtools_data.get("reads mapped", "0")).replace(",", ""))
             total_raw = float(str(samtools_data.get("raw total sequences", "0")).replace(",", ""))
-            value = f"{(reads / total_raw) * 100:.2f}" if total_raw > 0 else "NA"
+            value = f"{(reads / total_raw) * 100:.2f}%" if total_raw > 0 else "NA"
         except Exception:
             value = "NA"
         row.append(value)
